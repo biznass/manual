@@ -1,7 +1,7 @@
 {
   "plugins": ["html5-video","alerts","livereload","anchors","theme-arangodb"],
    "styles": {
-  "website": "styles/website.css","styles/header.css" 
+  "website": [ "styles/website.css", "styles/header.css" ]
 }
   }
 
